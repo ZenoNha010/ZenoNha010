@@ -50,4 +50,4 @@ I am a **Software Engineer** and currently a **Full-Stack Development Student**.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![LaTeX](https://img.shields.io/badge/latex-3670A0?style=for-the-badge&logo=latex&logoColor=white)
 
-<img align="right" width="310px" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VsazV1Z2ZjeXZ5Ymc4eG03ZGFidXl5dWc3cTMzcG5sY3U5Y3o0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"/>
+
