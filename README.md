@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/theanthefinest">Chhay Thean</a> 
+<h1><b>Hi there, I'm </b><a href="https://github.com/theanthefinest">Soth PichPanha</a> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30">
 </h1>
 <br>
@@ -7,7 +7,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY1aW91cHQ4a2YxOGFzOHdvYjI0cjZ3ZXk3MHdvdDJ4NmVkZWdqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="35">&nbsp; 
 ***About Me***
 
-<img align="right" width="200px" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81cjZlZzBwc3V1YWJ0eHpzMWpnbXpsMGp0a3p2Z3cyYzlrZmltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif"/>
+<img align="right" width="200px" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZtcXNsam53Y2xib3V1MjM1ZDN2dDZjMzU5dmRiaHNicHJqNWo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"/>
 
 I am a **Software Engineer** and currently a **Full-Stack Development Student**. I’m passionate about building scalable applications and exploring the latest in **AI, Machine Learning, and Web Development**.  
 - 🚀 I'm currently learning:
@@ -18,7 +18,7 @@ I am a **Software Engineer** and currently a **Full-Stack Development Student**.
 - 💬 Always open to collaborate or help out in projects.
 - 🧑‍🏫 I also tutor Mathematics and Physics to Freshman students.
 - 🎮 Love gaming, music 🎵, and hanging out with friends.
-- 📫 Reach out: <a href="mailto:lychhaythean1122@gmail.com">lychhaythean1122@gmail.com</a>
+- 📫 Reach out: <a href="mailto:Sothpichpanha@gmail.com">Sothpichpanha@gmail.com</a>
 
 <br>
 
@@ -31,9 +31,9 @@ I am a **Software Engineer** and currently a **Full-Stack Development Student**.
 
 <!-- Socials -->
 <div align="center">
-  <a href="mailto:lychhaythean1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/ly-chhaythean-825a45353/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.facebook.com/chhay.thean.2025"><img src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" /></a>
+  <a href="mailto:Sothpichpanha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <!-- <a href="https://www.linkedin.com/in/ly-chhaythean-825a45353/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.facebook.com/chhay.thean.2025"><img src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" /></a> -->
 </div>
 
 <br>
